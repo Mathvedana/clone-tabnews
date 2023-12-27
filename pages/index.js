@@ -1,8 +1,5 @@
 function Home() {
-  return;
-  <h1>
-    Essa é uma frase teste, Hello World!
-  </h1>;
+  return <h1>Eu te amooooo</h1>;
 }
 
 export default Home;
